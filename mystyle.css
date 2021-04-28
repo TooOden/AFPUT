@@ -1,0 +1,36 @@
+html, body {
+  width: 99.5%;
+  background-color: #D5CEE0;
+  font-family: 'Open sans', sans-serif; 
+}
+
+.paragraph { 
+  font-family: 'Open sans', sans-serif; 
+  color: #777777; 
+  font-size: 200px; 
+  color: white;
+  padding: 5px;
+  text-align: center;
+  }
+}
+
+.style {
+    font-size: 11pt; 
+	
+
+}
+
+.style td, th {
+    padding: 12px;
+	text-align: left;
+
+}
+
+.style tr {
+background: #AAA4B3;
+}
+
+.style tr:hover {
+    background: lightgrey;
+    cursor: pointer;
+}
