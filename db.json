@@ -1,0 +1,30 @@
+{
+  "usage_term_classification": [
+    {
+      "website": "www.imdb.com",
+      "warning": "This privacy policy has a total of 25 First Party Usage terms! It is strongly advised to skim read the terms.",
+      "AFPUT_link": "www.AFPUT.org/imdb"
+    },
+    {
+      "website": "duckduckgo.com",
+      "warning": "This privacy policy has a minimum amount of First Party Usage terms.",
+      "AFPUT_link": "www.AFPUT.org/duckduckgo"
+    },
+    {
+      "website": "www.virginmedia.com",
+      "warning": "The privacy policy for www.virginmedia.com has a total of 25 First Party Usage terms! It is strongly advised to skim read the terms.",
+      "AFPUT_link": "www.AFPUT.org/virginmedia"
+    },
+    {
+      "website": "uk.yahoo.com",
+      "warning": "The privacy policy for uk.yahoo.com has a total of 16 First Party Usage terms! It is strongly advised to skim read the terms.",
+      "AFPUT_link": "www.AFPUT.org/Yahoo"
+    },
+    {
+      "website": "www.twitch.tv",
+      "warning": "The privacy policy for twitch.tv has a total of 13 First Party Data Usage Terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/twitch.html"
+    }
+  ]
+}
