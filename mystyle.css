@@ -22,19 +22,13 @@ html, body {
 }
 
 .style td, th {
-<<<<<<< HEAD
     padding: 8px;
 	text-align: left;
 	  height: 60px;
-
    border-bottom: 0px solid #ddd;
-
-=======
     padding: 12px;
     text-align: left;
     border-bottom: 1px solid #ddd;
->>>>>>> 615e5754528fd4d2c326f49dfacc62f17fc78285
-
 }
 
 .style {
