@@ -1,7 +1,8 @@
 html, body {
   width: 99.5%;
-  background-color: #D5CEE0;
+  background-color: black;
   font-family: 'Open sans', sans-serif; 
+  
 }
 
 .paragraph { 
@@ -11,26 +12,36 @@ html, body {
   color: white;
   padding: 5px;
   text-align: center;
+  
   }
 }
 
 .style {
-    font-size: 11pt; 
+	border: 1px solid black;
 	
-
 }
 
 .style td, th {
-    padding: 12px;
+    padding: 8px;
 	text-align: left;
+	  height: 60px;
 
+   border-bottom: 0px solid #ddd;
+
+
+}
+
+.style {
+  border-collapse: collapse;
 }
 
 .style tr {
-background: #AAA4B3;
+    background-color: black;
+    color: white;
+
 }
 
 .style tr:hover {
-    background: lightgrey;
+    background: grey;
     cursor: pointer;
 }
