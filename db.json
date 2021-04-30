@@ -4,13 +4,19 @@
       "website": "www.twitch.tv",
       "warning": "The privacy policy for twitch.tv has a total of 13 First Party Data Usage Terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
-      "AFPUT_link": "www.afput.com/twitch.html"
+      "AFPUT_link": "www.afput.com/twitch"
     },
     {
       "website": "duckduckgo.com",
       "warning": "The privacy policy for duckduckgo.com has a minimum amount of First Party Data Usage Terms.",
       "warning_num": 0,
-      "AFPUT_link": "www.afput.com/duckduckgo.html"
+      "AFPUT_link": "www.afput.com/duckduckgo"
+    },
+    {
+      "website": "amp.dev",
+      "warning": "The privacy policy for amp.dev has a total of 33 First Party Data Usage Terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/AMP"
     }
   ]
 }
