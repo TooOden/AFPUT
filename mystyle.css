@@ -1,8 +1,7 @@
 html, body {
-  width: 99.5%;
   background-color: black;
   font-family: 'Open sans', sans-serif; 
-  
+
 }
 
 .paragraph { 
@@ -18,8 +17,9 @@ html, body {
 
 .style {
 	border: 1px solid black;
-	
+
 }
+
 
 .style td, th {
     padding: 8px;
@@ -33,11 +33,14 @@ html, body {
 
 .style {
   border-collapse: collapse;
+  width: 100%;
 }
 
 .style tr {
+	
     background-color: black;
     color: white;
+	
 
 }
 
