@@ -863,6 +863,36 @@
       "warning": "The privacy policy for www.imdb.com has a total of 25 First Party Data Usage Terms including  20 classified RED terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
       "AFPUT_link": "www.afput.com/IMDB"
+    },
+    {
+      "website": "www.wix.com",
+      "warning": "The privacy policy for www.wix.com has a moderate amount of First Party Data Usage Terms including 11 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Wix"
+    },
+    {
+      "website": "Csgostash.com",
+      "warning": "The privacy policy for csgostash.com has a moderate amount of First Party Data Usage Terms including 8 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/csgostash"
+    },
+    {
+      "website": "xhamster.com",
+      "warning": "xhamster.com has a minimum amount of First Party Data Usage Terms including 6 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/Xhamster"
+    },
+    {
+      "website": "www.xbox.com",
+      "warning": "The privacy policy for www.xbox.com has a moderate amount of First Party Data Usage Terms including 5 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Xbox"
+    },
+    {
+      "website": "www.starbucks.co.uk",
+      "warning": "The privacy policy for www.starbucks.co.uk has a total of 23 First Party Data Usage Terms including  22 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Starbucks"
     }
   ]
 }
