@@ -1,418 +1,10 @@
 {
   "usage_term_classification": [
     {
-      "website": "bandcamp.com",
-      "warning": "The privacy policy for bandcamp.com has a moderate amount of First Party Data Usage Terms and 14 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/bandcamp"
-    },
-    {
       "website": "amp.dev",
       "warning": "The privacy policy for amp.dev has a total of 33 First Party Data Usage Terms and 22 classified RED terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
       "AFPUT_link": "www.afput.com/AMP"
-    },
-    {
-      "website": "books.google.com",
-      "warning": "The privacy policy for books.google.com has a moderate amount of First Party Data Usage Terms and 14 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Google Books"
-    },
-    {
-      "website": "craigslist.org",
-      "warning": "craigslist.org has a minimum amount of First Party Data Usage Terms and 1 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/craigslist"
-    },
-    {
-      "website": "csgostash.com",
-      "warning": "craigslist.org has a minimum amount of First Party Data Usage Terms and 1 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/csgostash"
-    },
-    {
-      "website": "discord.com",
-      "warning": "discord.com has a minimum amount of First Party Data Usage Terms and 6 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/discord"
-    },
-    {
-      "website": "duckduckgo.com",
-      "warning": "duckduckgo.com has a minimum amount of First Party Data Usage Terms and 0 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/duckduckgo"
-    },
-    {
-      "website": "evernote.com",
-      "warning": "The privacy policy for evernote.com has a moderate amount of First Party Data Usage Terms and 12 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/evernote"
-    },
-    {
-      "website": "getadblock.com",
-      "warning": "The privacy policy for getadblock.com has a moderate amount of First Party Data Usage Terms and 12 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/getadblock"
-    },
-    {
-      "website": "github.com",
-      "warning": "The privacy policy for github.com has a total of 37 First Party Data Usage Terms and 9 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/github"
-    },
-    {
-      "website": "gmail.com",
-      "warning": "The privacy policy for gmail.com has a moderate amount of First Party Data Usage Terms and 14 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/gmail"
-    },
-    {
-      "website": "google.com",
-      "warning": "The privacy policy for google.com has a moderate amount of First Party Data Usage Terms and 14 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/google"
-    },
-    {
-      "website": "groceries.morrisons.com",
-      "warning": "The privacy policy for groceries.morrisons.com has a moderate amount of First Party Data Usage Terms and 7 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/morrisons"
-    },
-    {
-      "website": "www.gq-magazine.co.uk",
-      "warning": "The privacy policy for www.gq-magazine.co.uk has a moderate amount of First Party Data Usage Terms and 12 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/gq-magazine"
-    },
-    {
-      "website": "imageshack.com",
-      "warning": "The privacy policy for imageshack.com has a moderate amount of First Party Data Usage Terms and 9 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/imageshack"
-    },
-    {
-      "website": "metro.co.uk",
-      "warning": "The privacy policy for metro.co.uk has a total of 50 First Party Data Usage Terms and 39 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/metro"
-    },
-    {
-      "website": "onlyfans.com",
-      "warning": "The privacy policy for onlyfans.com has a total of 28 First Party Data Usage Terms and 13 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/onlyfans"
-    },
-    {
-      "website": "pixabay.com",
-      "warning": "pixabay.com has a minimum amount of First Party Data Usage Terms and 5 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/pixabay"
-    },
-    {
-      "website": "spankbang.com",
-      "warning": "pixabay.com has a minimum amount of First Party Data Usage Terms and 5 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/spankbang"
-    },
-    {
-      "website": "stackoverflow.com",
-      "warning": "The privacy policy for stackoverflow.com has a total of 30 First Party Data Usage Terms and 20 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/stackoverflow"
-    },
-    {
-      "website": "store.steampowered.com",
-      "warning": "The privacy policy for store.steampowered.com has a total of 26 First Party Data Usage Terms and 12 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/steam"
-    },
-    {
-      "website": "techcrunch.com",
-      "warning": "The privacy policy for techcrunch.com has a moderate amount of First Party Data Usage Terms and 15 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/techcrunch"
-    },
-    {
-      "website": "time.com",
-      "warning": "The privacy policy for time.com has a total of 42 First Party Data Usage Terms and 28 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/time"
-    },
-    {
-      "website": "twitch.tv",
-      "warning": "The privacy policy for time.com has a total of 42 First Party Data Usage Terms and 28 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/twitch"
-    },
-    {
-      "website": "twitter.com",
-      "warning": "The privacy policy for twitter.com has a moderate amount of First Party Data Usage Terms and 12 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/twitter"
-    },
-    {
-      "website": "uk.godaddy.com",
-      "warning": "The privacy policy for uk.godaddy.com has a moderate amount of First Party Data Usage Terms and 9 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/godaddy"
-    },
-    {
-      "website": "uk.gofundme.com",
-      "warning": "The privacy policy for uk.gofundme.com has a total of 26 First Party Data Usage Terms and 16 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/gofundme"
-    },
-    {
-      "website": "uk.indeed.com",
-      "warning": "The privacy policy for uk.indeed.com has a total of 66 First Party Data Usage Terms and 36 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/indeed"
-    },
-    {
-      "website": "uk.yahoo.com",
-      "warning": "The privacy policy for uk.yahoo.com has a moderate amount of First Party Data Usage Terms and 9 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/yahoo"
-    },
-    {
-      "website": "vk.com",
-      "warning": "vk.com has a minimum amount of First Party Data Usage Terms and 2 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/vk"
-    },
-    {
-      "website": "www.accuweather.com",
-      "warning": "The privacy policy for www.accuweather.com has a total of 46 First Party Data Usage Terms and 31 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/accuweather"
-    },
-    {
-      "website": "www.adobe.com",
-      "warning": "The privacy policy for www.accuweather.com has a total of 46 First Party Data Usage Terms and 31 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/adobe"
-    },
-    {
-      "website": "www.alexa.com",
-      "warning": "The privacy policy for www.alexa.com has a total of 31 First Party Data Usage Terms and 28 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/alexa"
-    },
-    {
-      "website": "www.aliexpress.com",
-      "warning": "The privacy policy for www.aliexpress.com has a total of 24 First Party Data Usage Terms and 16 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/aliexpress"
-    },
-    {
-      "website": "www.amazon.co.uk",
-      "warning": "The privacy policy for www.amazon.co.uk has a total of 24 First Party Data Usage Terms and 16 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/amazon"
-    },
-    {
-      "website": "www.apple.com",
-      "warning": "The privacy policy for www.apple.com has a total of 30 First Party Data Usage Terms and 9 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/apple"
-    },
-    {
-      "website": "www.asda.com",
-      "warning": "www.asda.com has a minimum amount of First Party Data Usage Terms and 1 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/asda"
-    },
-    {
-      "website": "www.asos.com",
-      "warning": "www.asos.com has a minimum amount of First Party Data Usage Terms and 2 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/asos"
-    },
-    {
-      "website": "www.asus.com",
-      "warning": "The privacy policy for www.asus.com has a total of 27 First Party Data Usage Terms and 12 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/ASUS"
-    },
-    {
-      "website": "www.autotrader.com",
-      "warning": "The privacy policy for www.autotrader.com has a total of 39 First Party Data Usage Terms and 31 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Autotrader"
-    },
-    {
-      "website": "www.bbc.co.uk",
-      "warning": "The privacy policy for www.bbc.co.uk has a total of 28 First Party Data Usage Terms and 10 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/bbc"
-    },
-    {
-      "website": "www.bbcgoodfood.com",
-      "warning": "The privacy policy for www.bbc.co.uk has a total of 28 First Party Data Usage Terms and 10 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/BBC GoodFood"
-    },
-    {
-      "website": "www.bloomberg.com",
-      "warning": "The privacy policy for www.bbc.co.uk has a total of 28 First Party Data Usage Terms and 10 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Bloomberg"
-    },
-    {
-      "website": "www.booking.com",
-      "warning": "The privacy policy for www.booking.com has a total of 57 First Party Data Usage Terms and 39 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Booking"
-    },
-    {
-      "website": "www.boots.com",
-      "warning": "The privacy policy for www.boots.com has a total of 23 First Party Data Usage Terms and 7 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Boots"
-    },
-    {
-      "website": "www.britannica.com",
-      "warning": "The privacy policy for www.britannica.com has a total of 50 First Party Data Usage Terms and 34 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Britannica"
-    },
-    {
-      "website": "www.bt.com",
-      "warning": "The privacy policy for www.bt.com has a total of 45 First Party Data Usage Terms and 23 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/BT"
-    },
-    {
-      "website": "www.businessinsider.com",
-      "warning": "The privacy policy for www.businessinsider.com has a total of 51 First Party Data Usage Terms and 40 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/BuisnessInsider"
-    },
-    {
-      "website": "www.buzzfeed.com",
-      "warning": "The privacy policy for www.buzzfeed.com has a total of 80 First Party Data Usage Terms and 44 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Buzzfeed"
-    },
-    {
-      "website": "www.change.org",
-      "warning": "The privacy policy for www.change.org has a total of 42 First Party Data Usage Terms and 19 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Change"
-    },
-    {
-      "website": "www.chess.com",
-      "warning": "The privacy policy for www.chess.com has a moderate amount of First Party Data Usage Terms and 13 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Chess"
-    },
-    {
-      "website": "www.cnbc.com",
-      "warning": "The privacy policy for www.chess.com has a moderate amount of First Party Data Usage Terms and 13 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/CNBC"
-    },
-    {
-      "website": "www.condenast.co.uk",
-      "warning": "The privacy policy for www.condenast.co.uk has a moderate amount of First Party Data Usage Terms and 12 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Condenast"
-    },
-    {
-      "website": "www.costco.co.uk",
-      "warning": "www.costco.co.uk has a minimum amount of First Party Data Usage Terms and 6 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/Costco"
-    },
-    {
-      "website": "www.costco.com",
-      "warning": "The privacy policy for www.costco.com has a total of 49 First Party Data Usage Terms and 40 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Costco"
-    },
-    {
-      "website": "www.currys.co.uk",
-      "warning": "The privacy policy for www.costco.com has a total of 49 First Party Data Usage Terms and 40 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Currys"
-    },
-    {
-      "website": "www.dailymail.co.uk",
-      "warning": "The privacy policy for www.dailymail.co.uk has a total of 50 First Party Data Usage Terms and 38 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Dailymail"
-    },
-    {
-      "website": "www.debenhams.com",
-      "warning": "The privacy policy for www.debenhams.com has a moderate amount of First Party Data Usage Terms and 11 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Debenhams"
-    },
-    {
-      "website": "www.dell.com",
-      "warning": "The privacy policy for www.dell.com has a total of 26 First Party Data Usage Terms and 20 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Dell"
-    },
-    {
-      "website": "www.digitalspy.com",
-      "warning": "The privacy policy for www.digitalspy.com has a total of 39 First Party Data Usage Terms and 30 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Digitalspy"
-    },
-    {
-      "website": "www.diy.com",
-      "warning": "The privacy policy for www.diy.com has a moderate amount of First Party Data Usage Terms and 8 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/DIY"
-    },
-    {
-      "website": "www.dowjones.com",
-      "warning": "The privacy policy for www.diy.com has a moderate amount of First Party Data Usage Terms and 8 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Dowjones"
-    },
-    {
-      "website": "www.ebay.co.uk",
-      "warning": "The privacy policy for www.ebay.co.uk has a total of 67 First Party Data Usage Terms and 40 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Ebay"
-    },
-    {
-      "website": "www.eonline.com",
-      "warning": "The privacy policy for www.ebay.co.uk has a total of 67 First Party Data Usage Terms and 40 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Eonline"
-    },
-    {
-      "website": "www.espn.co.uk",
-      "warning": "www.espn.co.uk has a minimum amount of First Party Data Usage Terms and 6 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/ESPN"
-    },
-    {
-      "website": "www.etsy.com",
-      "warning": "The privacy policy for www.etsy.com has a total of 46 First Party Data Usage Terms and 22 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Etsy"
-    },
-    {
-      "website": "www.eventbrite.co.uk",
-      "warning": "The privacy policy for www.eventbrite.co.uk has a total of 31 First Party Data Usage Terms and 18 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Eventbrite"
-    },
-    {
-      "website": "www.express.co.uk",
-      "warning": "www.express.co.uk has a minimum amount of First Party Data Usage Terms and 2 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/Express"
-    },
-    {
-      "website": "www.facebook.com",
-      "warning": "The privacy policy for www.facebook.com has a total of 26 First Party Data Usage Terms and 17 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Facebook"
     },
     {
       "website": "www.faceit.com",
@@ -421,124 +13,10 @@
       "AFPUT_link": "www.afput.com/Faceit"
     },
     {
-      "website": "www.fandom.com",
-      "warning": "The privacy policy for www.fandom.com has a total of 64 First Party Data Usage Terms and 48 classified RED terms! It is strongly advised to skim read the terms.",
+      "website": "www.dell.com",
+      "warning": "The privacy policy for www.dell.com has a total of 26 First Party Data Usage Terms and 20 classified RED terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Fandom"
-    },
-    {
-      "website": "www.forbes.com",
-      "warning": "The privacy policy for www.forbes.com has a total of 46 First Party Data Usage Terms and 22 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Forbes"
-    },
-    {
-      "website": "www.foxnews.com",
-      "warning": "The privacy policy for www.foxnews.com has a moderate amount of First Party Data Usage Terms and 13 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Fox News"
-    },
-    {
-      "website": "www.gamepedia.com",
-      "warning": "The privacy policy for www.gamepedia.com has a total of 64 First Party Data Usage Terms and 48 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Gamepedia"
-    },
-    {
-      "website": "www.glamourmagazine.co.uk",
-      "warning": "The privacy policy for www.glamourmagazine.co.uk has a moderate amount of First Party Data Usage Terms and 12 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Glamour"
-    },
-    {
-      "website": "www.goodreads.com",
-      "warning": "www.goodreads.com has a minimum amount of First Party Data Usage Terms and 1 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/Goodreads"
-    },
-    {
-      "website": "www.google.co.uk",
-      "warning": "The privacy policy for www.google.co.uk has a moderate amount of First Party Data Usage Terms and 14 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Google"
-    },
-    {
-      "website": "www.gov.uk",
-      "warning": "www.gov.uk has a minimum amount of First Party Data Usage Terms and 2 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/Gov.uk"
-    },
-    {
-      "website": "www.gq-magazine.co.uk",
-      "warning": "The privacy policy for www.gq-magazine.co.uk has a moderate amount of First Party Data Usage Terms and 12 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/GQ"
-    },
-    {
-      "website": "www.gumtree.com",
-      "warning": "www.gumtree.com has a minimum amount of First Party Data Usage Terms and 3 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/Gumtree"
-    },
-    {
-      "website": "www.healthline.com",
-      "warning": "The privacy policy for www.healthline.com has a total of 38 First Party Data Usage Terms and 24 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Healthline"
-    },
-    {
-      "website": "www.hotukdeals.com",
-      "warning": "The privacy policy for www.healthline.com has a total of 38 First Party Data Usage Terms and 24 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/HotUKDeals"
-    },
-    {
-      "website": "www.huffingtonpost.co.uk",
-      "warning": "The privacy policy for www.huffingtonpost.co.uk has a total of 80 First Party Data Usage Terms and 44 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Huffington Post"
-    },
-    {
-      "website": "www.huffpost.com",
-      "warning": "The privacy policy for www.huffpost.com has a total of 80 First Party Data Usage Terms and 44 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Huffington Post"
-    },
-    {
-      "website": "www.hulu.com",
-      "warning": "The privacy policy for www.hulu.com has a total of 37 First Party Data Usage Terms and 29 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Hulu"
-    },
-    {
-      "website": "www.ibm.com",
-      "warning": "www.ibm.com has a minimum amount of First Party Data Usage Terms and 5 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/IBM"
-    },
-    {
-      "website": "www.ign.com",
-      "warning": "The privacy policy for www.ign.com has a total of 44 First Party Data Usage Terms and 35 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/IGN"
-    },
-    {
-      "website": "www.ikea.com",
-      "warning": "The privacy policy for www.ikea.com has a total of 25 First Party Data Usage Terms and 8 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/IKEA"
-    },
-    {
-      "website": "www.imdb.com",
-      "warning": "The privacy policy for www.imdb.com has a total of 25 First Party Data Usage Terms and 20 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/IMDB"
-    },
-    {
-      "website": "www.instagram.com",
-      "warning": "The privacy policy for www.instagram.com has a total of 28 First Party Data Usage Terms and 17 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Instagram"
+      "AFPUT_link": "www.afput.com/Dell"
     },
     {
       "website": "www.intel.com",
@@ -547,214 +25,10 @@
       "AFPUT_link": "www.afput.com/Intel"
     },
     {
-      "website": "www.itv.com",
-      "warning": "The privacy policy for www.intel.com has a total of 27 First Party Data Usage Terms and 21 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/ITV"
-    },
-    {
-      "website": "www.johnlewis.com",
-      "warning": "The privacy policy for www.johnlewis.com has a total of 43 First Party Data Usage Terms and 19 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/John Lewis"
-    },
-    {
-      "website": "www.just-eat.co.uk",
-      "warning": "The privacy policy for www.just-eat.co.uk has a moderate amount of First Party Data Usage Terms and 10 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Just-Eat"
-    },
-    {
-      "website": "www.kickstarter.com",
-      "warning": "The privacy policy for www.just-eat.co.uk has a moderate amount of First Party Data Usage Terms and 10 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Kickstarter"
-    },
-    {
-      "website": "www.ladbiblegroup.com",
-      "warning": "The privacy policy for www.ladbiblegroup.com has a total of 32 First Party Data Usage Terms and 18 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/LadBible"
-    },
-    {
-      "website": "www.latimes.com",
-      "warning": "The privacy policy for www.latimes.com has a total of 86 First Party Data Usage Terms and 50 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/LA Times"
-    },
-    {
-      "website": "www.linkedin.com",
-      "warning": "The privacy policy for www.linkedin.com has a total of 41 First Party Data Usage Terms and 23 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/LinkedIn"
-    },
-    {
-      "website": "www.livejasmin.com",
-      "warning": "The privacy policy for www.livejasmin.com has a total of 32 First Party Data Usage Terms and 14 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/LiveJasmin"
-    },
-    {
-      "website": "www.lloydsbank.com",
-      "warning": "The privacy policy for www.lloydsbank.com has a total of 30 First Party Data Usage Terms and 14 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Lloyds Bank"
-    },
-    {
-      "website": "www.marketwatch.com",
-      "warning": "The privacy policy for www.lloydsbank.com has a total of 30 First Party Data Usage Terms and 14 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Marketwatch"
-    },
-    {
-      "website": "www.mayoclinic.org",
-      "warning": "The privacy policy for www.mayoclinic.org has a moderate amount of First Party Data Usage Terms and 14 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Mayo Clinic"
-    },
-    {
-      "website": "www.microsoft.com",
-      "warning": "The privacy policy for www.mayoclinic.org has a moderate amount of First Party Data Usage Terms and 14 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Microsoft"
-    },
-    {
-      "website": "www.moneysavingexpert.com",
-      "warning": "The privacy policy for www.moneysavingexpert.com has a total of 23 First Party Data Usage Terms and 9 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Money Saving Expert"
-    },
-    {
       "website": "www.mozilla.org",
       "warning": "The privacy policy for www.mozilla.org has a moderate amount of First Party Data Usage Terms and 10 classified RED terms, it is advised to skim read the terms.",
       "warning_num": 1,
       "AFPUT_link": "www.afput.com/Mozilla"
-    },
-    {
-      "website": "www.msn.com",
-      "warning": "The privacy policy for www.mozilla.org has a moderate amount of First Party Data Usage Terms and 10 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/MSN"
-    },
-    {
-      "website": "www.myhermes.co.uk",
-      "warning": "The privacy policy for www.mozilla.org has a moderate amount of First Party Data Usage Terms and 10 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/MyHermes"
-    },
-    {
-      "website": "www.nasa.gov",
-      "warning": "The privacy policy for www.nasa.gov has a moderate amount of First Party Data Usage Terms and 10 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Nasa"
-    },
-    {
-      "website": "www.nationalgeographic.com",
-      "warning": "www.nationalgeographic.com has a minimum amount of First Party Data Usage Terms and 6 classified RED terms ",
-      "warning_num": 0,
-      "AFPUT_link": "www.afput.com/NationalGeographic"
-    },
-    {
-      "website": "www.national-lottery.co.uk",
-      "warning": "The privacy policy for www.national-lottery.co.uk has a moderate amount of First Party Data Usage Terms and 8 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/National-Lottery"
-    },
-    {
-      "website": "www.nbcuniversal.com",
-      "warning": "The privacy policy for www.national-lottery.co.uk has a moderate amount of First Party Data Usage Terms and 8 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/NBC Universal"
-    },
-    {
-      "website": "www.netflix.com",
-      "warning": "The privacy policy for www.netflix.com has a moderate amount of First Party Data Usage Terms and 18 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Netflix"
-    },
-    {
-      "website": "www.next.co.uk",
-      "warning": "The privacy policy for www.next.co.uk has a moderate amount of First Party Data Usage Terms and 8 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Next"
-    },
-    {
-      "website": "www.nhs.uk",
-      "warning": "The privacy policy for www.nhs.uk has a moderate amount of First Party Data Usage Terms and 8 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/NHS"
-    },
-    {
-      "website": "www.nytimes.com",
-      "warning": "The privacy policy for www.nytimes.com has a total of 37 First Party Data Usage Terms and 22 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/NY Times"
-    },
-    {
-      "website": "www.o2.co.uk",
-      "warning": "The privacy policy for www.o2.co.uk has a total of 24 First Party Data Usage Terms and 14 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/O2"
-    },
-    {
-      "website": "www.paypal.com",
-      "warning": "The privacy policy for www.paypal.com has a total of 33 First Party Data Usage Terms and 19 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Paypal"
-    },
-    {
-      "website": "www.pinterest.co.uk",
-      "warning": "The privacy policy for www.pinterest.co.uk has a total of 38 First Party Data Usage Terms and 19 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Pinterest"
-    },
-    {
-      "website": "www.playstation.com",
-      "warning": "The privacy policy for www.playstation.com has a total of 23 First Party Data Usage Terms and 15 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Playstation"
-    },
-    {
-      "website": "www.pornhub.com",
-      "warning": "The privacy policy for www.pornhub.com has a total of 29 First Party Data Usage Terms and 14 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Pornhub"
-    },
-    {
-      "website": "www.premierleague.com",
-      "warning": "The privacy policy for www.pornhub.com has a total of 29 First Party Data Usage Terms and 14 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/PremierLeague"
-    },
-    {
-      "website": "www.psychologytoday.com",
-      "warning": "The privacy policy for www.pornhub.com has a total of 29 First Party Data Usage Terms and 14 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Psychology Today"
-    },
-    {
-      "website": "www.quora.com",
-      "warning": "The privacy policy for www.quora.com has a total of 26 First Party Data Usage Terms and 18 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Quora"
-    },
-    {
-      "website": "www.reddit.com",
-      "warning": "The privacy policy for www.reddit.com has a total of 38 First Party Data Usage Terms and 20 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Reddit"
-    },
-    {
-      "website": "www.researchgate.net",
-      "warning": "The privacy policy for www.researchgate.net has a total of 49 First Party Data Usage Terms and 26 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Research Gate"
-    },
-    {
-      "website": "www.roblox.com",
-      "warning": "The privacy policy for www.roblox.com has a total of 46 First Party Data Usage Terms and 26 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Roblox"
     },
     {
       "website": "www.rottentomatoes.com",
@@ -763,262 +37,832 @@
       "AFPUT_link": "www.afput.com/Rotten Tomatoes"
     },
     {
-      "website": "www.royalmail.com",
-      "warning": "The privacy policy for www.royalmail.com has a total of 34 First Party Data Usage Terms and 21 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Royal Mail"
+      "website": "bandcamp.com",
+      "warning": "The privacy policy for bandcamp.com has a moderate amount of First Party Data Usage Terms including 14 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Bandcamp"
     },
     {
-      "website": "www.sainsburys.co.uk",
-      "warning": "www.sainsburys.co.uk has a minimum amount of First Party Data Usage Terms and 5 classified RED terms ",
+      "website": "www.goodreads.com",
+      "warning": "www.goodreads.com has a minimum amount of First Party Data Usage Terms including 1 classified RED terms ",
       "warning_num": 0,
-      "AFPUT_link": "www.afput.com/Sainsburys"
+      "AFPUT_link": "www.afput.com/Good Reads"
     },
     {
-      "website": "www.samsung.com",
-      "warning": "The privacy policy for www.samsung.com has a total of 67 First Party Data Usage Terms and 42 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Samsung"
+      "website": "www.spotify.com",
+      "warning": "The privacy policy for www.spotify.com has a moderate amount of First Party Data Usage Terms including 6 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Spotify"
     },
     {
-      "website": "www.santander.co.uk",
-      "warning": "The privacy policy for www.samsung.com has a total of 67 First Party Data Usage Terms and 42 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Santander"
-    },
-    {
-      "website": "www.sciencedaily.com",
-      "warning": "The privacy policy for www.samsung.com has a total of 67 First Party Data Usage Terms and 42 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Science Daily"
-    },
-    {
-      "website": "www.sciencedirect.com",
-      "warning": "The privacy policy for www.samsung.com has a total of 67 First Party Data Usage Terms and 42 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Science Direct"
-    },
-    {
-      "website": "www.screwfix.com",
-      "warning": "The privacy policy for www.samsung.com has a total of 67 First Party Data Usage Terms and 42 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Screwfix"
-    },
-    {
-      "website": "www.shein.co.uk",
-      "warning": "The privacy policy for www.shein.co.uk has a total of 56 First Party Data Usage Terms and 33 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Shein"
-    },
-    {
-      "website": "www.shopdisney.co.uk",
-      "warning": "www.shopdisney.co.uk has a minimum amount of First Party Data Usage Terms and 6 classified RED terms ",
+      "website": "pixabay.com",
+      "warning": "pixabay.com has a minimum amount of First Party Data Usage Terms including 5 classified RED terms ",
       "warning_num": 0,
-      "AFPUT_link": "www.afput.com/Disney Shop"
+      "AFPUT_link": "www.afput.com/Pixabay"
     },
     {
-      "website": "www.shopify.com",
-      "warning": "www.shopify.com has a minimum amount of First Party Data Usage Terms and 1 classified RED terms ",
+      "website": "www.surveymonkey.co.uk",
+      "warning": "The privacy policy for www.surveymonkey.co.uk has a total of 88 First Party Data Usage Terms including  49 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Survey Monkey"
+    },
+    {
+      "website": "www.surveymonkey.com",
+      "warning": "The privacy policy for www.surveymonkey.com has a total of 88 First Party Data Usage Terms including  49 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Survey Monkey"
+    },
+    {
+      "website": "uk.gofundme.com",
+      "warning": "The privacy policy for uk.gofundme.com has a total of 26 First Party Data Usage Terms including  16 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/GoFundMe"
+    },
+    {
+      "website": "www.alexa.com",
+      "warning": "The privacy policy for www.alexa.com has a total of 31 First Party Data Usage Terms including  28 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Alexa"
+    },
+    {
+      "website": "discord.com",
+      "warning": "discord.com has a minimum amount of First Party Data Usage Terms including 6 classified RED terms ",
       "warning_num": 0,
-      "AFPUT_link": "www.afput.com/Shopify"
+      "AFPUT_link": "www.afput.com/Discord"
     },
     {
       "website": "www.shutterstock.com",
-      "warning": "The privacy policy for www.shutterstock.com has a total of 33 First Party Data Usage Terms and 23 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning": "The privacy policy for www.shutterstock.com has a total of 33 First Party Data Usage Terms including  23 classified RED terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
       "AFPUT_link": "www.afput.com/Shutterstock"
     },
     {
+      "website": "www.eventbrite.co.uk",
+      "warning": "The privacy policy for www.eventbrite.co.uk has a total of 31 First Party Data Usage Terms including  18 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Eventbrite"
+    },
+    {
+      "website": "www.eventbrite.com",
+      "warning": "The privacy policy for www.eventbrite.com has a total of 31 First Party Data Usage Terms including  18 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Eventbrite"
+    },
+    {
+      "website": "www.researchgate.net",
+      "warning": "The privacy policy for www.researchgate.net has a total of 49 First Party Data Usage Terms including  26 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Research Gate"
+    },
+    {
+      "website": "www.britannica.com",
+      "warning": "The privacy policy for www.britannica.com has a total of 48 First Party Data Usage Terms including  32 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Britannica"
+    },
+    {
+      "website": "www.buzzfeed.com",
+      "warning": "The privacy policy for www.buzzfeed.com has a total of 80 First Party Data Usage Terms including  44 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Buzzfeed"
+    },
+    {
+      "website": "uk.godaddy.com",
+      "warning": "The privacy policy for uk.godaddy.com has a moderate amount of First Party Data Usage Terms including 9 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/GoDaddy"
+    },
+    {
+      "website": "www.asus.com",
+      "warning": "The privacy policy for www.asus.com has a total of 27 First Party Data Usage Terms including  13 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Asus"
+    },
+    {
+      "website": "techcrunch.com",
+      "warning": "The privacy policy for techcrunch.com has a moderate amount of First Party Data Usage Terms including 15 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Tech Crunch"
+    },
+    {
+      "website": "www.verizonmedia.com",
+      "warning": "The privacy policy for www.verizonmedia.com has a moderate amount of First Party Data Usage Terms including 15 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Verizon Media"
+    },
+    {
+      "website": "www.playstation.com",
+      "warning": "The privacy policy for www.playstation.com has a total of 23 First Party Data Usage Terms including  15 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Playstation"
+    },
+    {
+      "website": "imageshack.com",
+      "warning": "The privacy policy for imageshack.com has a moderate amount of First Party Data Usage Terms including 9 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Imageshack"
+    },
+    {
+      "website": "www8.hp.com",
+      "warning": "The privacy policy for www8.hp.com has a total of 30 First Party Data Usage Terms including  23 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/HP"
+    },
+    {
+      "website": "www.ibm.com",
+      "warning": "www.ibm.com has a minimum amount of First Party Data Usage Terms including 5 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/IBM"
+    },
+    {
+      "website": "www.shopify.com",
+      "warning": "www.shopify.com has a minimum amount of First Party Data Usage Terms including 1 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/Shopify"
+    },
+    {
+      "website": "time.com",
+      "warning": "The privacy policy for time.com has a total of 42 First Party Data Usage Terms including  28 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Time"
+    },
+    {
+      "website": "www.change.org",
+      "warning": "The privacy policy for www.change.org has a total of 42 First Party Data Usage Terms including  19 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Change"
+    },
+    {
+      "website": "www.nasa.gov",
+      "warning": "The privacy policy for www.nasa.gov has a moderate amount of First Party Data Usage Terms including 10 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Nasa"
+    },
+    {
+      "website": "www.latimes.com",
+      "warning": "The privacy policy for www.latimes.com has a total of 86 First Party Data Usage Terms including  50 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/LA Times"
+    },
+    {
+      "website": "www.condenast.co.uk",
+      "warning": "The privacy policy for www.condenast.co.uk has a moderate amount of First Party Data Usage Terms including 12 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Condenast"
+    },
+    {
+      "website": "www.glamourmagazine.co.uk",
+      "warning": "The privacy policy for www.glamourmagazine.co.uk has a moderate amount of First Party Data Usage Terms including 12 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Glamour Magazine"
+    },
+    {
+      "website": "www.gq-magazine.co.uk",
+      "warning": "The privacy policy for www.gq-magazine.co.uk has a moderate amount of First Party Data Usage Terms including 12 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/GQ Magazine"
+    },
+    {
+      "website": "www.vanityfair.com",
+      "warning": "The privacy policy for www.vanityfair.com has a moderate amount of First Party Data Usage Terms including 12 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Vanity Fair"
+    },
+    {
+      "website": "www.vogue.co.uk",
+      "warning": "The privacy policy for www.vogue.co.uk has a moderate amount of First Party Data Usage Terms including 12 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Vogue"
+    },
+    {
+      "website": "www.wired.co.uk",
+      "warning": "The privacy policy for www.wired.co.uk has a moderate amount of First Party Data Usage Terms including 12 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Wired"
+    },
+    {
+      "website": "www.washingtonpost.com",
+      "warning": "The privacy policy for www.washingtonpost.com has a total of 38 First Party Data Usage Terms including  27 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Washington Post"
+    },
+    {
+      "website": "www.huffingtonpost.co.uk",
+      "warning": "The privacy policy for www.huffingtonpost.co.uk has a total of 80 First Party Data Usage Terms including  44 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Huffington Post"
+    },
+    {
+      "website": "www.huffpost.com",
+      "warning": "The privacy policy for www.huffpost.com has a total of 80 First Party Data Usage Terms including  44 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Huffington Post"
+    },
+    {
+      "website": "www.shein.co.uk",
+      "warning": "The privacy policy for www.shein.co.uk has a total of 56 First Party Data Usage Terms including  33 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Shein"
+    },
+    {
+      "website": "www.aliexpress.com",
+      "warning": "The privacy policy for www.aliexpress.com has a total of 24 First Party Data Usage Terms including  16 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Aliexpress"
+    },
+    {
+      "website": "uk.yahoo.com",
+      "warning": "The privacy policy for uk.yahoo.com has a moderate amount of First Party Data Usage Terms including 9 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Yahoo"
+    },
+    {
+      "website": "evernote.com",
+      "warning": "The privacy policy for evernote.com has a moderate amount of First Party Data Usage Terms including 12 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Evernote"
+    },
+    {
+      "website": "www.forbes.com",
+      "warning": "The privacy policy for www.forbes.com has a total of 46 First Party Data Usage Terms including  22 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Forbes"
+    },
+    {
+      "website": "books.google.com",
+      "warning": "The privacy policy for books.google.com has a moderate amount of First Party Data Usage Terms including 14 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Google Books"
+    },
+    {
+      "website": "gmail.com",
+      "warning": "The privacy policy for gmail.com has a moderate amount of First Party Data Usage Terms including 14 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Gmail"
+    },
+    {
+      "website": "google.com",
+      "warning": "The privacy policy for google.com has a moderate amount of First Party Data Usage Terms including 14 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Google"
+    },
+    {
+      "website": "www.google.co.uk",
+      "warning": "The privacy policy for www.google.co.uk has a moderate amount of First Party Data Usage Terms including 14 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Google"
+    },
+    {
+      "website": "www.youtube.com",
+      "warning": "The privacy policy for www.youtube.com has a moderate amount of First Party Data Usage Terms including 14 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Youtube"
+    },
+    {
+      "website": "www.businessinsider.com",
+      "warning": "The privacy policy for www.businessinsider.com has a total of 51 First Party Data Usage Terms including  40 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Business Insider"
+    },
+    {
+      "website": "www.samsung.com",
+      "warning": "The privacy policy for www.samsung.com has a total of 67 First Party Data Usage Terms including  42 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Samsung"
+    },
+    {
+      "website": "www.hulu.com",
+      "warning": "The privacy policy for www.hulu.com has a total of 37 First Party Data Usage Terms including  29 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Hulu"
+    },
+    {
+      "website": "onlyfans.com",
+      "warning": "The privacy policy for onlyfans.com has a total of 28 First Party Data Usage Terms including  13 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Onlyfans"
+    },
+    {
+      "website": "www.ign.com",
+      "warning": "The privacy policy for www.ign.com has a total of 44 First Party Data Usage Terms including  35 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/IGN"
+    },
+    {
+      "website": "www.mayoclinic.org",
+      "warning": "The privacy policy for www.mayoclinic.org has a moderate amount of First Party Data Usage Terms including 14 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Mayo Clinic"
+    },
+    {
+      "website": "www.costco.com",
+      "warning": "The privacy policy for www.costco.com has a total of 49 First Party Data Usage Terms including  40 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Costco"
+    },
+    {
+      "website": "www.costco.co.uk",
+      "warning": "www.costco.co.uk has a minimum amount of First Party Data Usage Terms including 6 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/Costco"
+    },
+    {
+      "website": "www.webmd.com",
+      "warning": "The privacy policy for www.webmd.com has a total of 29 First Party Data Usage Terms including  19 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Webmd"
+    },
+    {
+      "website": "www.yelp.co.uk",
+      "warning": "The privacy policy for www.yelp.co.uk has a total of 23 First Party Data Usage Terms including  16 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Yelp"
+    },
+    {
+      "website": "www.nytimes.com",
+      "warning": "The privacy policy for www.nytimes.com has a total of 37 First Party Data Usage Terms including  22 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/NY Times"
+    },
+    {
+      "website": "www.usps.com",
+      "warning": "The privacy policy for www.usps.com has a total of 35 First Party Data Usage Terms including  19 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/USPS"
+    },
+    {
+      "website": "www.foxnews.com",
+      "warning": "The privacy policy for www.foxnews.com has a moderate amount of First Party Data Usage Terms including 13 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Fox News"
+    },
+    {
+      "website": "store.steampowered.com",
+      "warning": "The privacy policy for store.steampowered.com has a total of 26 First Party Data Usage Terms including  12 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Steam"
+    },
+    {
+      "website": "www.walmart.com",
+      "warning": "The privacy policy for www.walmart.com has a total of 38 First Party Data Usage Terms including  21 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Walmart"
+    },
+    {
+      "website": "www.xnxx.com",
+      "warning": "The privacy policy for www.xnxx.com has a moderate amount of First Party Data Usage Terms including 17 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Xnxx"
+    },
+    {
+      "website": "craigslist.org",
+      "warning": "craigslist.org has a minimum amount of First Party Data Usage Terms including 1 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/Craigslist"
+    },
+    {
+      "website": "www.xvideos.com",
+      "warning": "The privacy policy for www.xvideos.com has a moderate amount of First Party Data Usage Terms including 17 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Xvideos"
+    },
+    {
+      "website": "groceries.morrisons.com",
+      "warning": "The privacy policy for groceries.morrisons.com has a moderate amount of First Party Data Usage Terms including 7 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Morrisons"
+    },
+    {
+      "website": "www.tesco.com",
+      "warning": "The privacy policy for www.tesco.com has a total of 26 First Party Data Usage Terms including  15 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Tesco"
+    },
+    {
+      "website": "www.express.co.uk",
+      "warning": "www.express.co.uk has a minimum amount of First Party Data Usage Terms including 2 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/Express"
+    },
+    {
+      "website": "www.fandom.com",
+      "warning": "The privacy policy for www.fandom.com has a total of 64 First Party Data Usage Terms including  48 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Fandom"
+    },
+    {
+      "website": "www.gamepedia.com",
+      "warning": "The privacy policy for www.gamepedia.com has a total of 64 First Party Data Usage Terms including  48 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Gamepedia"
+    },
+    {
+      "website": "www.telegraph.co.uk",
+      "warning": "The privacy policy for www.telegraph.co.uk has a moderate amount of First Party Data Usage Terms including 10 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Telegraph"
+    },
+    {
+      "website": "uk.indeed.com",
+      "warning": "The privacy policy for uk.indeed.com has a total of 66 First Party Data Usage Terms including  36 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Indeed"
+    },
+    {
+      "website": "www.tripadvisor.co.uk",
+      "warning": "The privacy policy for www.tripadvisor.co.uk has a moderate amount of First Party Data Usage Terms including 7 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Tripadvisor"
+    },
+    {
+      "website": "www.thesun.co.uk",
+      "warning": "The privacy policy for www.thesun.co.uk has a total of 53 First Party Data Usage Terms including  33 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/The Sun"
+    },
+    {
+      "website": "www.nhs.uk",
+      "warning": "The privacy policy for www.nhs.uk has a moderate amount of First Party Data Usage Terms including 8 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/NHS"
+    },
+    {
+      "website": "www.national-lottery.co.uk",
+      "warning": "The privacy policy for www.national-lottery.co.uk has a moderate amount of First Party Data Usage Terms including 8 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/NationalLottery"
+    },
+    {
+      "website": "www.netflix.com",
+      "warning": "The privacy policy for www.netflix.com has a moderate amount of First Party Data Usage Terms including 18 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Netflix"
+    },
+    {
+      "website": "www.paypal.com",
+      "warning": "The privacy policy for www.paypal.com has a total of 33 First Party Data Usage Terms including  19 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Paypal"
+    },
+    {
       "website": "www.sky.com",
-      "warning": "The privacy policy for www.sky.com has a total of 23 First Party Data Usage Terms and 12 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning": "The privacy policy for www.sky.com has a total of 23 First Party Data Usage Terms including  12 classified RED terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
       "AFPUT_link": "www.afput.com/Sky"
     },
     {
       "website": "www.skysports.com",
-      "warning": "The privacy policy for www.skysports.com has a total of 23 First Party Data Usage Terms and 12 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning": "The privacy policy for www.skysports.com has a total of 23 First Party Data Usage Terms including  12 classified RED terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Sky Sports"
+      "AFPUT_link": "www.afput.com/SkySports"
     },
     {
-      "website": "www.spotify.com",
-      "warning": "The privacy policy for www.spotify.com has a moderate amount of First Party Data Usage Terms and 6 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Spotify"
-    },
-    {
-      "website": "www.surveymonkey.co.uk",
-      "warning": "The privacy policy for www.surveymonkey.co.uk has a total of 88 First Party Data Usage Terms and 49 classified RED terms! It is strongly advised to skim read the terms.",
+      "website": "www.instagram.com",
+      "warning": "The privacy policy for www.instagram.com has a total of 28 First Party Data Usage Terms including  17 classified RED terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Survey Monkey"
+      "AFPUT_link": "www.afput.com/Instagram"
     },
     {
-      "website": "www.surveymonkey.co.uk",
-      "warning": "The privacy policy for www.surveymonkey.co.uk has a total of 88 First Party Data Usage Terms and 49 classified RED terms! It is strongly advised to skim read the terms.",
+      "website": "www.gumtree.com",
+      "warning": "www.gumtree.com has a minimum amount of First Party Data Usage Terms including 3 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/Gumtree"
+    },
+    {
+      "website": "www.dailymail.co.uk",
+      "warning": "The privacy policy for www.dailymail.co.uk has a total of 50 First Party Data Usage Terms including  38 classified RED terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Survey Monkey"
-    },
-    {
-      "website": "www.telegraph.co.uk",
-      "warning": "The privacy policy for www.telegraph.co.uk has a moderate amount of First Party Data Usage Terms and 10 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Telegraph"
-    },
-    {
-      "website": "www.tesco.com",
-      "warning": "The privacy policy for www.tesco.com has a total of 26 First Party Data Usage Terms and 15 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Tesco"
-    },
-    {
-      "website": "www.theguardian.com",
-      "warning": "The privacy policy for www.theguardian.com has a moderate amount of First Party Data Usage Terms and 8 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/The Guardian"
-    },
-    {
-      "website": "www.thesun.co.uk",
-      "warning": "The privacy policy for www.thesun.co.uk has a total of 53 First Party Data Usage Terms and 33 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/The Sun"
-    },
-    {
-      "website": "www.three.co.uk",
-      "warning": "The privacy policy for www.three.co.uk has a moderate amount of First Party Data Usage Terms and 11 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Three"
-    },
-    {
-      "website": "www.tripadvisor.co.uk",
-      "warning": "The privacy policy for www.tripadvisor.co.uk has a moderate amount of First Party Data Usage Terms and 7 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Trip Advisor"
-    },
-    {
-      "website": "www.trustpilot.com",
-      "warning": "The privacy policy for www.trustpilot.com has a moderate amount of First Party Data Usage Terms and 10 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Trust Pilot"
-    },
-    {
-      "website": "www.usps.com",
-      "warning": "The privacy policy for www.usps.com has a total of 35 First Party Data Usage Terms and 19 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/USPS"
-    },
-    {
-      "website": "www.vanityfair.comlondon",
-      "warning": "The privacy policy for www.vanityfair.comlondon has a moderate amount of First Party Data Usage Terms and 12 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Vanity Fair"
-    },
-    {
-      "website": "www.verizonmedia.com",
-      "warning": "The privacy policy for www.verizonmedia.com has a moderate amount of First Party Data Usage Terms and 15 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Verizon Media"
-    },
-    {
-      "website": "www.virginmedia.com",
-      "warning": "The privacy policy for www.virginmedia.com has a moderate amount of First Party Data Usage Terms and 16 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Virgin Media"
-    },
-    {
-      "website": "www.vogue.co.uk",
-      "warning": "The privacy policy for www.vogue.co.uk has a moderate amount of First Party Data Usage Terms and 12 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Vogue"
-    },
-    {
-      "website": "www.walmart.com",
-      "warning": "The privacy policy for www.walmart.com has a total of 38 First Party Data Usage Terms and 21 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Walmart"
-    },
-    {
-      "website": "www.washingtonpost.com",
-      "warning": "The privacy policy for www.washingtonpost.com has a total of 38 First Party Data Usage Terms and 27 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Washington Post"
+      "AFPUT_link": "www.afput.com/Dailymail"
     },
     {
       "website": "www.wayfair.co.uk",
-      "warning": "The privacy policy for www.wayfair.co.uk has a total of 28 First Party Data Usage Terms and 17 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning": "The privacy policy for www.wayfair.co.uk has a total of 28 First Party Data Usage Terms including  17 classified RED terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
       "AFPUT_link": "www.afput.com/Wayfair"
     },
     {
-      "website": "www.webmd.com",
-      "warning": "The privacy policy for www.webmd.com has a total of 29 First Party Data Usage Terms and 19 classified RED terms! It is strongly advised to skim read the terms.",
+      "website": "www.accuweather.com",
+      "warning": "The privacy policy for www.accuweather.com has a total of 46 First Party Data Usage Terms including  31 classified RED terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
-      "AFPUT_link": "www.afput.com/WebMD"
+      "AFPUT_link": "www.afput.com/Accuweather"
     },
     {
-      "website": "www.wired.co.uk",
-      "warning": "The privacy policy for www.wired.co.uk has a moderate amount of First Party Data Usage Terms and 12 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Wired"
-    },
-    {
-      "website": "www.wix.com",
-      "warning": "The privacy policy for www.wired.co.uk has a moderate amount of First Party Data Usage Terms and 12 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Wix"
-    },
-    {
-      "website": "www.xbox.com",
-      "warning": "The privacy policy for www.wired.co.uk has a moderate amount of First Party Data Usage Terms and 12 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Xbox"
-    },
-    {
-      "website": "www.xnxx.com",
-      "warning": "The privacy policy for www.xnxx.com has a moderate amount of First Party Data Usage Terms and 17 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Xnxx"
-    },
-    {
-      "website": "www.xvideos.com",
-      "warning": "The privacy policy for www.xvideos.com has a moderate amount of First Party Data Usage Terms and 17 classified RED terms, it is advised to skim read the terms.",
-      "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Xvideos"
-    },
-    {
-      "website": "www.yelp.co.uk",
-      "warning": "The privacy policy for www.yelp.co.uk has a total of 23 First Party Data Usage Terms and 16 classified RED terms! It is strongly advised to skim read the terms.",
+      "website": "www.lloydsbank.com",
+      "warning": "The privacy policy for www.lloydsbank.com has a total of 30 First Party Data Usage Terms including  14 classified RED terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Yelp"
+      "AFPUT_link": "www.afput.com/Lloyds"
     },
     {
-      "website": "www.youtube.com",
-      "warning": "The privacy policy for www.youtube.com has a moderate amount of First Party Data Usage Terms and 14 classified RED terms, it is advised to skim read the terms.",
+      "website": "www.debenhams.com",
+      "warning": "The privacy policy for www.debenhams.com has a moderate amount of First Party Data Usage Terms including 11 classified RED terms, it is advised to skim read the terms.",
       "warning_num": 1,
-      "AFPUT_link": "www.afput.com/Youtube"
+      "AFPUT_link": "www.afput.com/Debenhams"
+    },
+    {
+      "website": "www.boots.com",
+      "warning": "The privacy policy for www.boots.com has a total of 23 First Party Data Usage Terms including  7 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Boots"
+    },
+    {
+      "website": "github.com",
+      "warning": "The privacy policy for github.com has a total of 37 First Party Data Usage Terms including  9 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Github"
+    },
+    {
+      "website": "twitter.com",
+      "warning": "The privacy policy for twitter.com has a moderate amount of First Party Data Usage Terms including 12 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Twitter"
+    },
+    {
+      "website": "www.ikea.com",
+      "warning": "The privacy policy for www.ikea.com has a total of 25 First Party Data Usage Terms including  8 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Ikea"
+    },
+    {
+      "website": "www.asos.com",
+      "warning": "www.asos.com has a minimum amount of First Party Data Usage Terms including 2 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/Asos"
+    },
+    {
+      "website": "stackoverflow.com",
+      "warning": "The privacy policy for stackoverflow.com has a total of 30 First Party Data Usage Terms including  20 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Stackoverflow"
+    },
+    {
+      "website": "www.diy.com",
+      "warning": "The privacy policy for www.diy.com has a moderate amount of First Party Data Usage Terms including 8 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/DIY"
+    },
+    {
+      "website": "www.o2.co.uk",
+      "warning": "The privacy policy for www.o2.co.uk has a total of 24 First Party Data Usage Terms including  14 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/O2"
+    },
+    {
+      "website": "www.sainsburys.co.uk",
+      "warning": "www.sainsburys.co.uk has a minimum amount of First Party Data Usage Terms including 5 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/Sainsburys"
+    },
+    {
+      "website": "www.three.co.uk",
+      "warning": "The privacy policy for www.three.co.uk has a moderate amount of First Party Data Usage Terms including 11 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Three"
+    },
+    {
+      "website": "www.booking.com",
+      "warning": "The privacy policy for www.booking.com has a total of 57 First Party Data Usage Terms including  39 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Booking"
+    },
+    {
+      "website": "www.apple.com",
+      "warning": "The privacy policy for www.apple.com has a total of 30 First Party Data Usage Terms including  9 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Apple"
+    },
+    {
+      "website": "www.etsy.com",
+      "warning": "The privacy policy for www.etsy.com has a total of 46 First Party Data Usage Terms including  22 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Etsy"
+    },
+    {
+      "website": "www.pinterest.co.uk",
+      "warning": "The privacy policy for www.pinterest.co.uk has a total of 38 First Party Data Usage Terms including  19 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Pinterest"
+    },
+    {
+      "website": "www.royalmail.com",
+      "warning": "The privacy policy for www.royalmail.com has a total of 34 First Party Data Usage Terms including  21 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/RoyalMail"
     },
     {
       "website": "www.zoopla.co.uk",
-      "warning": "The privacy policy for www.zoopla.co.uk has a total of 29 First Party Data Usage Terms and 12 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning": "The privacy policy for www.zoopla.co.uk has a total of 29 First Party Data Usage Terms including  12 classified RED terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
       "AFPUT_link": "www.afput.com/Zoopla"
     },
     {
-      "website": "www8.hp.com",
-      "warning": "The privacy policy for www8.hp.com has a total of 30 First Party Data Usage Terms and 23 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
-      "AFPUT_link": "www.afput.com/HP"
+      "website": "www.next.co.uk",
+      "warning": "The privacy policy for www.next.co.uk has a moderate amount of First Party Data Usage Terms including 8 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Next"
     },
     {
-      "website": "xhamster.com",
-      "warning": "The privacy policy for www8.hp.com has a total of 30 First Party Data Usage Terms and 23 classified RED terms! It is strongly advised to skim read the terms.",
+      "website": "www.moneysavingexpert.com",
+      "warning": "The privacy policy for www.moneysavingexpert.com has a total of 23 First Party Data Usage Terms including  9 classified RED terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
-      "AFPUT_link": "www.afput.com/Xhamster"
+      "AFPUT_link": "www.afput.com/MoneySavingExpert"
+    },
+    {
+      "website": "www.autotrader.com",
+      "warning": "The privacy policy for www.autotrader.com has a total of 39 First Party Data Usage Terms including  31 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/AutoTrader"
+    },
+    {
+      "website": "www.quora.com",
+      "warning": "The privacy policy for www.quora.com has a total of 26 First Party Data Usage Terms including  18 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Quora"
+    },
+    {
+      "website": "metro.co.uk",
+      "warning": "The privacy policy for metro.co.uk has a total of 50 First Party Data Usage Terms including  39 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Metro"
+    },
+    {
+      "website": "www.digitalspy.com",
+      "warning": "The privacy policy for www.digitalspy.com has a total of 39 First Party Data Usage Terms including  30 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Digital Spy"
+    },
+    {
+      "website": "www.johnlewis.com",
+      "warning": "The privacy policy for www.johnlewis.com has a total of 43 First Party Data Usage Terms including  19 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Johnlewis"
+    },
+    {
+      "website": "www.healthline.com",
+      "warning": "The privacy policy for www.healthline.com has a total of 38 First Party Data Usage Terms including  24 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Healthline"
+    },
+    {
+      "website": "www.asda.com",
+      "warning": "www.asda.com has a minimum amount of First Party Data Usage Terms including 1 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/Asda"
+    },
+    {
+      "website": "www.just-eat.co.uk",
+      "warning": "The privacy policy for www.just-eat.co.uk has a moderate amount of First Party Data Usage Terms including 10 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Just-Eat"
+    },
+    {
+      "website": "www.bt.com",
+      "warning": "The privacy policy for www.bt.com has a total of 45 First Party Data Usage Terms including  23 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/BT"
+    },
+    {
+      "website": "www.espn.co.uk",
+      "warning": "www.espn.co.uk has a minimum amount of First Party Data Usage Terms including 6 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/ESPN"
+    },
+    {
+      "website": "www.espn.com",
+      "warning": "www.espn.com has a minimum amount of First Party Data Usage Terms including 6 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/ESPN"
+    },
+    {
+      "website": "www.nationalgeographic.com",
+      "warning": "www.nationalgeographic.com has a minimum amount of First Party Data Usage Terms including 6 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/NationalGeographic"
+    },
+    {
+      "website": "www.shopdisney.co.uk",
+      "warning": "www.shopdisney.co.uk has a minimum amount of First Party Data Usage Terms including 6 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/Disney Shop"
+    },
+    {
+      "website": "www.roblox.com",
+      "warning": "The privacy policy for www.roblox.com has a total of 46 First Party Data Usage Terms including  26 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Roblox"
+    },
+    {
+      "website": "www.livejasmin.com",
+      "warning": "The privacy policy for www.livejasmin.com has a total of 32 First Party Data Usage Terms including  14 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/LiveJasmin"
+    },
+    {
+      "website": "www.pornhub.com",
+      "warning": "The privacy policy for www.pornhub.com has a total of 29 First Party Data Usage Terms including  14 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Pornhub"
+    },
+    {
+      "website": "www.trustpilot.com",
+      "warning": "The privacy policy for www.trustpilot.com has a moderate amount of First Party Data Usage Terms including 10 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/TrustPilot"
+    },
+    {
+      "website": "www.gov.uk",
+      "warning": "www.gov.uk has a minimum amount of First Party Data Usage Terms including 2 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/Gov"
+    },
+    {
+      "website": "vk.com",
+      "warning": "vk.com has a minimum amount of First Party Data Usage Terms including 2 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/VK"
     },
     {
       "website": "zoom.us",
-      "warning": "The privacy policy for www8.hp.com has a total of 30 First Party Data Usage Terms and 23 classified RED terms! It is strongly advised to skim read the terms.",
-      "warning_num": 2,
+      "warning": "zoom.us has a minimum amount of First Party Data Usage Terms including 2 classified RED terms ",
+      "warning_num": 0,
       "AFPUT_link": "www.afput.com/Zoom"
+    },
+    {
+      "website": "www.facebook.com",
+      "warning": "The privacy policy for www.facebook.com has a total of 26 First Party Data Usage Terms including  17 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Facebook"
+    },
+    {
+      "website": "www.ebay.co.uk",
+      "warning": "The privacy policy for www.ebay.co.uk has a total of 65 First Party Data Usage Terms including  38 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Ebay"
+    },
+    {
+      "website": "www.bbc.co.uk",
+      "warning": "The privacy policy for www.bbc.co.uk has a total of 28 First Party Data Usage Terms including  10 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/BBC"
+    },
+    {
+      "website": "www.reddit.com",
+      "warning": "The privacy policy for www.reddit.com has a total of 38 First Party Data Usage Terms including  20 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Reddit"
+    },
+    {
+      "website": "www.amazon.co.uk",
+      "warning": "The privacy policy for www.amazon.co.uk has a total of 24 First Party Data Usage Terms including  16 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Amazon"
+    },
+    {
+      "website": "getadblock.com",
+      "warning": "The privacy policy for getadblock.com has a moderate amount of First Party Data Usage Terms including 12 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Adblock"
+    },
+    {
+      "website": "www.chess.com",
+      "warning": "The privacy policy for www.chess.com has a moderate amount of First Party Data Usage Terms including 13 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/Chess"
+    },
+    {
+      "website": "www.ladbiblegroup.com",
+      "warning": "The privacy policy for www.ladbiblegroup.com has a total of 32 First Party Data Usage Terms including  18 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/Ladbible"
+    },
+    {
+      "website": "www.theguardian.com",
+      "warning": "The privacy policy for www.theguardian.com has a moderate amount of First Party Data Usage Terms including 8 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/The Guardian"
+    },
+    {
+      "website": "www.virginmedia.com",
+      "warning": "The privacy policy for www.virginmedia.com has a moderate amount of First Party Data Usage Terms including 16 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/VirginMedia"
+    },
+    {
+      "website": "www.linkedin.com",
+      "warning": "The privacy policy for www.linkedin.com has a total of 41 First Party Data Usage Terms including  23 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/LinkedIn"
+    },
+    {
+      "website": "duckduckgo.com",
+      "warning": "duckduckgo.com has a minimum amount of First Party Data Usage Terms including 0 classified RED terms ",
+      "warning_num": 0,
+      "AFPUT_link": "www.afput.com/Duckduckgo"
+    },
+    {
+      "website": "www.imdb.com",
+      "warning": "The privacy policy for www.imdb.com has a total of 25 First Party Data Usage Terms including  20 classified RED terms! It is strongly advised to skim read the terms.",
+      "warning_num": 2,
+      "AFPUT_link": "www.afput.com/IMDB"
     }
   ]
 }
