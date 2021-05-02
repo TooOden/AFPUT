@@ -893,6 +893,18 @@
       "warning": "The privacy policy for www.starbucks.co.uk has a total of 23 First Party Data Usage Terms including  22 classified RED terms! It is strongly advised to skim read the terms.",
       "warning_num": 2,
       "AFPUT_link": "www.afput.com/Starbucks"
+    },
+    {
+      "website": "google.com",
+      "warning": "The privacy policy for google.com has a moderate amount of First Party Data Usage Terms including 14 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/google"
+    },
+    {
+      "website": "www.google.co.uk",
+      "warning": "The privacy policy for www.google.co.uk has a moderate amount of First Party Data Usage Terms including 14 classified RED terms, it is advised to skim read the terms.",
+      "warning_num": 1,
+      "AFPUT_link": "www.afput.com/google"
     }
   ]
 }
