@@ -4,9 +4,8 @@ html, body {
 
 }
 
-.paragraph { 
+.p { 
   font-family: 'Open sans', sans-serif; 
-  color: #777777; 
   font-size: 200px; 
   color: white;
   padding: 5px;
